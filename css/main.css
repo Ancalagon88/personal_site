@@ -123,10 +123,14 @@
 }
 
 .nav-item:nth-child(3) {
-  transition-delay: 0.3s;
+  transition-delay: 0.2s;
 }
 
 .nav-item:nth-child(4) {
+  transition-delay: 0.3s;
+}
+
+.nav-item:nth-child(5) {
   transition-delay: 0.4s;
 }
 
